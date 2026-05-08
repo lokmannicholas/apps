@@ -1,0 +1,17 @@
+node_modules
+.next
+.yarn
+.pnp.*
+dist
+build
+coverage
+*.tsbuildinfo
+*.log
+.env
+.env.local
+.env.*.local
+.tmp
+.cache
+tmp
+cache
+data

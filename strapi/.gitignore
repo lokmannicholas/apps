@@ -1,0 +1,11 @@
+node_modules
+.strapi
+.yarn
+.pnp.*
+dist
+build
+.cache
+tmp
+coverage
+*.log
+.env
